@@ -1,0 +1,11 @@
+# don't include built files
+
+*.dol
+*.elf
+*.map
+*.d
+*.o
+*.a
+
+/packer/mkdolramdisk
+/packer/mkdolramdisk-debug
